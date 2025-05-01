@@ -1,0 +1,5 @@
+[build]
+  # Directory containing the generated markup to deploy
+  publish = "docs"
+  # No build command required for plain HTML
+  command = "" 
